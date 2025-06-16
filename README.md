@@ -84,7 +84,7 @@
 
 #### Editor / IDE I ♥
 <p align="left">
-  <img src="https://cdn.worldvectorlogo.com/logos/sublime-text.svg" width="40" height="40"/> 
+
   <img src="https://cdn.worldvectorlogo.com/logos/intellij-idea-1.svg" width="40" height="40"/> 
   <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" width="40" height="40"/> 
 </p>
@@ -95,5 +95,5 @@
 </p>
 
 - 💬 Ask me about **DevOps**
-- 📫 How to reach me **[belal294@gmail.com](mailto:belal294@gmail.com)**
+- 📫 How to reach me **[belalislam294@gmail.com](mailto:belal294@gmail.com)**
 - ⚡ Fun fact **I create YouTube videos** 🎥
